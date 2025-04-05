@@ -3,3 +3,41 @@ body{
     color: #434455;
     font-family: 'Roboto', sans-serif;
 }
+a{
+    text-decoration: none;
+}
+
+ul{
+    list-style: none;
+}
+
+.header-nav{
+    color: #2e2f42;
+}
+.header-nav .header-logo{
+    font-size: 18px;
+    font-family: "Raleway", sans-serif;
+    font-weight: bold;
+    text-transform: uppercase;
+    line-height: 1.16667;
+}
+.header-nav .header-logo span{
+    color: #4d5ae5;
+}
+
+.header-nav .header-menu{
+    font-weight: 500;
+}
+
+.header-nav .header-menu .header-menu-item{
+    font-size: 16px;
+    line-height: 1.5;
+
+}
+
+.header-contacts a{
+    font-size: 16px;
+    line-height: 1.5;
+    font-weight: normal;
+    color: currentColor;
+}
