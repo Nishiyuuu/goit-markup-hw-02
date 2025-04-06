@@ -15,7 +15,7 @@ address{
     font-style: normal;
 }
 
-.header-nav .header-logo{
+.header-logo{
     font-size: 18px;
     font-family: "Raleway", sans-serif;
     font-weight: bold;
@@ -24,7 +24,8 @@ address{
     letter-spacing: 0.03em;
     color: #4d5ae5;
 }
-.header-nav .header-logo span{
+
+.header-logo span{
     color: #2e2f42;
 }
 
@@ -156,4 +157,26 @@ address{
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
+}
+
+.footer-logo{
+    font-size: 18px;
+    font-family: "Raleway", sans-serif;
+    font-weight: bold;
+    text-transform: uppercase;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    color: #4d5ae5;
+}
+
+.footer-logo span{
+    color: #2e2f42;
+}
+
+.footer-description{
+    font-size: 16px;
+    font-weight: normal;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #f4f4fd;
 }
