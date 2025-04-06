@@ -96,3 +96,37 @@ address{
     letter-spacing: 0.02em;
     color: #434455;
 }
+
+.section-team{
+    background-color: #f4f4fd;
+}
+
+.section-team-title{
+    font-size: 36px;
+    font-weight: bold;
+    line-height: 1.11;
+    letter-spacing: 0.02em;
+    text-align: center;
+    text-transform: capitalize;
+}
+
+.section-team-list-item{
+    background-color: #ffffff;
+}
+
+.section-team-list-item-title{
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #2e2f42;
+}
+
+.section-team-list-item-description{
+    font-size: 16px;
+    font-weight: normal;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    text-align: center;
+}
