@@ -80,9 +80,7 @@ address{
 .section-hero-button:focus{
     background-color: #404bbf;
 }
-.section-about-title{
-    display: none;
-}
+
 .section-about-list-item-title{
     font-size: 20px;
     font-weight: 500;
